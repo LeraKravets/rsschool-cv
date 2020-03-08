@@ -21,7 +21,8 @@ A lifelong learner and introvert who has a passion to iOS development and likes 
 ### 5. Code examples:
 
 ### 6. Experience:
-Weather App Project 
+- Weather App Project 
+- News App Project
 
 ### 7. Education:
 - BSEU
