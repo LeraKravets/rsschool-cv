@@ -17,6 +17,7 @@ A lifelong learner and introvert who has a passion to iOS development and likes 
 - Autolayout
 - MapKit
 - CocoaPods
+- Firebase
 
 ### 5. Code examples:
 
